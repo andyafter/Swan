@@ -1,4 +1,0 @@
-### this is simply to make a hash from betting sequence to bankroll chance
-
-## every betting sequence is the key and the value is a list consists of two numbers,
-## first number the income of the small blind, second number the income of big blind player
